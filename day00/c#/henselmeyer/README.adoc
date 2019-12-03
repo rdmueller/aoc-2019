@@ -1,0 +1,20 @@
+== Hello World
+
+This solution is written in C#/.net-core 3 (https://dotnet.microsoft.com/download/dotnet-core/3.0).
+
+=== First Star
+
+Build using command:
+$ dotnet build
+
+Run using:
+$ dotnet run
+
+....
+include::day00.csproj
+include::Program.cs
+....
+
+=== Second Star
+
+There is no second star.

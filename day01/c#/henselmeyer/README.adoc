@@ -1,0 +1,31 @@
+== Day01
+
+This solution is written in C#/.net-core 3 (https://dotnet.microsoft.com/download/dotnet-core/3.0).
+
+=== First Star
+
+Build using command:
+$ dotnet build
+
+Run using:
+$ dotnet run one
+
+....
+include::day01.csproj
+include::Program.cs
+include::input.txt
+....
+
+=== Second Star
+
+Build using command:
+$ dotnet build
+
+Run using:
+$ dotnet run two
+
+....
+include::day01.csproj
+include::Program.cs
+include::input.txt
+....
